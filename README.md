@@ -17,3 +17,10 @@ Marketplace API Setup For ClixWall
 2) Go To http://www.clixwall.com/my_marketplace.php -> Add -> Enter the details and submit
 API url will be http://www.domain.com/clixwall_api.php
 
+# More details 
+
+Postback: https://www.clixwall.com/docs/postback
+
+Integration: https://www.clixwall.com/docs/integration
+
+Help: https://clixwall.com/help
